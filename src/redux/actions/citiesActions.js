@@ -1,7 +1,7 @@
 import axios from "axios";
 
 // let apiUrl = "http://localhost:8000/";
-let apiUrl = "https://mytinerary-back-dev-zkct.2.us-1.fl0.io"
+let apiUrl = "https://mytinerary-back-wqv0.onrender.com""
 
 
 
