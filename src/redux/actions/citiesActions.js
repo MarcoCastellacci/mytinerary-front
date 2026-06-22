@@ -1,6 +1,6 @@
 import axios from "axios";
 
-let apiUrl = "https://mytinerary-back-wqv0.onrender.com";
+let apiUrl = "https://mytinerary-back-wqv0.onrender.com/";
 
 
 const citiesActions = {
