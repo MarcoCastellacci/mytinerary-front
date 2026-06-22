@@ -3,7 +3,6 @@ import axios from "axios";
 let apiUrl = "https://mytinerary-back-wqv0.onrender.com";
 
 
-
 const citiesActions = {
     createCity: (name, country, info, image) => {
         return async (dispatch, getState) => {
