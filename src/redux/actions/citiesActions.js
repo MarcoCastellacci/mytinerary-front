@@ -7,7 +7,7 @@ const citiesActions = {
     createCity: (name, country, info, image) => {
         return async (dispatch, getState) => {
             try {
-                await axios.post(apiUrl + `api/city/`, { name, country, info, image })
+                await axios.post(apiUrl + `api/cities/`, { name, country, info, image })
             } catch (error) {
                 console.log(error)
             }
