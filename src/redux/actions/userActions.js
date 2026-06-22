@@ -1,6 +1,6 @@
 import axios from "axios";
 
-let apiUrl = "https://mytinerary-back-dev-zkct.2.us-1.fl0.io";
+let apiUrl = "https://mytinerary-back-wqv0.onrender.com";
 // let apiUrl = "http://localhost:4000/"
 const userActions = {
     signUp: (userData) => {
